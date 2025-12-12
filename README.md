@@ -51,12 +51,12 @@ MammoSegment-AI/
 └── background.mp4               # UI Background Video
 ```
 
-
-
-
 📄 Technical Report
 This project includes a detailed academic report written in IEEE conference format. It covers the mathematical background, algorithm logic, and performance metrics (Dice Score, Jaccard Index).
 
+[View Report (PDF)](./210402043_final_project.pdf)
 
+ [LinkedIn](https://www.linkedin.com/in/berkantaksyy/)
+ [GitHub](https://github.com/berkantaksyy)
 
-Supervisor: Asst. Prof. Dr. Onan GÜREN
+[Supervisor: Asst. Prof. Dr. Onan GÜREN](https://ubs.ikc.edu.tr/ABPDS/AcademicInformation/BilgiGoruntulemev2/Index?pid=EIhzKKxabFdJ93CizPaPJg!xGGx!!xGGx!)
