@@ -33,13 +33,15 @@
 2. **Install dependencies::**
 ```bash
 pip install -r requirements.txt
-
+```
 
 4. **Run the app:::**
 ```bash
 streamlit run app.py
+```
 
 📂 Project Structure
+```Plaintext
 MammoSegment-AI/
 │
 ├── app.py                       # Main Streamlit application file
@@ -47,10 +49,14 @@ MammoSegment-AI/
 ├── README.md                    # Project documentation
 ├── 210402043_final_project.pdf  # IEEE Format Project Report
 └── background.mp4               # UI Background Video
+```
+
 
 
 
 📄 Technical Report
 This project includes a detailed academic report written in IEEE conference format. It covers the mathematical background, algorithm logic, and performance metrics (Dice Score, Jaccard Index).
+
+
 
 Supervisor: Asst. Prof. Dr. Onan GÜREN
